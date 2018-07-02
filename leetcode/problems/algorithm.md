@@ -1,6 +1,14 @@
 ### Welcome to my web page
 
-# [Two Sum!](./twoSum.md)
+# 1. [Two Sum!](./twoSum.md)
+
+
+# 7. [Reverse Integer!](./twoSum.md)
+
+
+
+
+
 ## Description
 Given an array of integers, return indices of the two numbers such that they add up to a specific target.
 
